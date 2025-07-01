@@ -1,6 +1,4 @@
-# foo
-
-https://inaba1115.github.io/ghpages-test
+# blog
 
 ## contents
 [link](/contents/20260701_foo.md)
