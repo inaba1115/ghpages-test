@@ -1,7 +1,6 @@
 # foo
 
-bar
+https://inaba1115.github.io/ghpages-test
 
-- a
-- a
-- b
+## contents
+[link](/contents/20260701_foo.md)
